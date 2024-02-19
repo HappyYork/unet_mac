@@ -1,1 +1,1 @@
-hi.this is my unet demo on mac
+hi.this is my unet app on mac
